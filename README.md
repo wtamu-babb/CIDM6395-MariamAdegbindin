@@ -44,8 +44,13 @@ Cybersecurity and Networking is about keeping systems and data safe while making
   - Firewall/WAF protecting API DMZ  
   - Encrypted database subnet  
   - SIEM-ready logging service
+ 
+## 7. Conclusion
+This capstone project brought together everything I’ve learned in the MS-CISBA program. Through it, I was able to design a system that not only functions but also reflects real-world challenges how to collect data, make sense of it, store it properly, and protect it. Every decision I made was influenced by something I learned along the way, whether it was organizing data structures, designing user workflows, or simulating threat scenarios.
 
-## 7. Getting Started  
+What makes this project meaningful to me is that it grew out of something personal my love for flag football, but it still pushed me to apply everything I’ve gained from this degree in a practical, cross-functional way. It’s not just a school project to me it’s proof that I can take an idea, shape it through multiple disciplines, and turn it into something useful.
+
+## 8. Getting Started  
 ```bash
 # 1. Clone the repo
 git clone https://github.com/<org>/CIDM6395-MariamAdegbindin.git
