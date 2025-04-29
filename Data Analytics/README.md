@@ -47,7 +47,7 @@ This assessment lays out my Data Analytics journey—what I excel at, where I pl
 ---
 
 ### References & Supporting Evidence
-- [My GitHub Repository](https://github.com/MariamAdegbindin/MAdegbindin.git) – Sample analytics projects and dashboards.  
+- https://github.com/wtamu-babb/CIDM6395-MariamAdegbindin.git – Sample analytics projects and dashboards.  
 - Course materials and hands-on labs from CIDM6308, CIDM6355, and related coursework.  
 - Academic articles on data visualization best practices and predictive modeling techniques.  
 
