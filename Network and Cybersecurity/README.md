@@ -37,7 +37,7 @@ Areas I plan to improve include:
 Networking and Cybersecurity will guide how I design the **security architecture** of my capstone solution. Whether it involves user data or system interactions, I will apply principles of **risk management, compliance**, and **network hardening** to ensure secure design.
 
 ## REFERENCES & SUPPORTING EVIDENCE
-- GitHub Repository: [Mariam’s GitHub](https://github.com/MariamAdegbindin/MAdegbindin.git)
+- GitHub Repository: [Mariam’s GitHub]https://github.com/wtamu-babb/CIDM6395-MariamAdegbindin.git
 - CIDM 6340 & 6341 assignments and labs on security tools and audit documentation
 
 
