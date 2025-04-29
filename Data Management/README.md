@@ -53,7 +53,7 @@ This assessment provides a roadmap for my capstone project, outlining my strengt
 ---
 
 ### **References & Supporting Evidence**
-- [My GitHub Repository]https://github.com/wtamu-babb/CIDM6395-MariamAdegbindin.git Sample projects demonstrating my skills in Data Management.
+- https://github.com/wtamu-babb/CIDM6395-MariamAdegbindin.git - Sample projects demonstrating my skills in Data Management.
 - Course materials, tutorials, and hands-on projects used to develop my competencies.
 - Academic references on database management methodologies, big data processing, and best practices in data governance.
 
