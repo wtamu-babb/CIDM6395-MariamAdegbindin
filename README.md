@@ -1,5 +1,8 @@
 # Flag Football Performance & Injury Analytics Platform
 
+## About Me  
+Hi there! My name is **Mariam Adegbindin**, a soon-to-be MS-CISBA graduate from West Texas A&M University (May 2025). When I’m not crunching data or building prototypes, you’ll find me on the flag football field or exploring new ways to turn real-world problems into data-driven solutions. Welcome to my portfolio—let’s dive in!
+
 ## 1. Introduction  
 My capstone project is a Flag Football Performance & Injury Analytics Platform designed to help casual or recreational flag football players track their personal performance and monitor injury trends. The goal is to give players a better understanding of how their physical performance, habits, and environment may contribute to both progress and setbacks. Although this system isn’t intended for official leagues, it still serves a purpose especially for students, weekend athletes, or anyone interested in sports performance and health
 
